@@ -1,0 +1,6 @@
+repo.new no navegador, para criar um novo repositório no GitHub
+
+Uploading na existing file, para subir os arquivos das pastas locais da máquina, para o GitHub
+
+
+vercel.com para publicar o projeto do GitHub
